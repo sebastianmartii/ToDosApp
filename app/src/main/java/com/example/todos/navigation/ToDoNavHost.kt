@@ -1,4 +1,4 @@
-package com.example.todos
+package com.example.todos.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier

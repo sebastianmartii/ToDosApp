@@ -1,4 +1,4 @@
-package com.example.todos
+package com.example.todos.navigation
 
 import androidx.navigation.NavType
 import androidx.navigation.navArgument

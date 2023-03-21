@@ -12,6 +12,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.todos.ui.details.ToDoItemEdit
 import com.example.todos.ui.dialogs.DeleteDialog
 import com.example.todos.ui.theme.ToDosTheme
 import com.example.todos.viewmodels.DetailsViewModel

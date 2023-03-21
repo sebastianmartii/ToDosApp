@@ -1,4 +1,4 @@
-package com.example.todos.ui.edit
+package com.example.todos.ui.details
 
 import android.content.res.Configuration.UI_MODE_NIGHT_YES
 import androidx.compose.foundation.layout.*
